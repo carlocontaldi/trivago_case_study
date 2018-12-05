@@ -13,3 +13,9 @@ I used Conda 4.5.11 with Python 3.6.5 on a machine implementing Windows 10 64-bi
 
 The "main.py" script executes the whole workflow and saves the output in a logfile.
 > python main.py
+
+# Highlights
+- EDA: framed the problem and leveraged some features by thinking out of the box.
+- Feature-engineered a new dataset more suitable to the task at hand and applied relevant models.
+- My pipeline involved one-hot encoding, normalization, multicollinearity assessment, logistic regression with grid search and XGBoost with early stopping.
+- Achieved 81.5% accuracy on the test set.
