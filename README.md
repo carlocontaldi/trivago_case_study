@@ -1,8 +1,6 @@
 # Trivago Case Study
 Data science case study targeting hotel entry click rate, based on real-world Trivago data.
 
-Task: predict how often a hotel will be clicked based on certain characteristics of the hotel.
-
 The report includes an in-depth description of my work and thought process.
 
 This project has been carried out in one week (time allotted for the challenge).
