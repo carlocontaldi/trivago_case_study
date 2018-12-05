@@ -3,7 +3,7 @@ Data science case study: Click Prediction using real-world Trivago data.
 
 Task: predict how often a hotel will be clicked based on certain characteristics of the hotel.
 
-The report offers an in-depth description of my work and thought process.
+The report includes an in-depth description of my work and thought process.
 
 The project has been carried out in one week (time allotted for the challenge).
 
