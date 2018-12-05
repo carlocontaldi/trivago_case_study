@@ -1,5 +1,5 @@
 # Trivago Case Study
-Data science case study: Click Prediction using real-world Trivago data.
+Data science case study targeting hotel entry click rate, based on real-world Trivago data.
 
 Task: predict how often a hotel will be clicked based on certain characteristics of the hotel.
 
