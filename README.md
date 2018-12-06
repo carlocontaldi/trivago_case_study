@@ -15,6 +15,7 @@ The "main.py" script executes the whole workflow and saves the output in a logfi
 > python main.py
 
 # Highlights
+- EDA: characterized unknown feature by means of violin plots.
 - EDA: leveraged log-discretized pairplots with multiple KDE for regression analysis.
 - My pipeline involved stratified splitting, one-hot encoding, normalization, grid/randomized search, linear and polynomial regression with shrinkage, SVR, random forest and XGBoost with early stopping.
 - Significantly improved results by applying weighted oversampling strategy.
