@@ -19,4 +19,4 @@ The "main.py" script executes the whole workflow and saves the output in a logfi
 - EDA: leveraged log-discretized pairplots with multiple KDE for regression analysis.
 - My pipeline involved stratified splitting, one-hot encoding, normalization, grid/randomized search, linear and polynomial regression with shrinkage, SVR, random forest and XGBoost with early stopping.
 - Significantly improved results by applying weighted oversampling strategy.
-- My best model achieved a weighted MSE of 0.91 and performed statistically significantly better than the random baseline on the test set (2.25).
+- My best model achieved a weighted MSE of 0.91 and performed statistically significantly better than the naïve baseline on the test set (2.25).
