@@ -15,7 +15,7 @@ The "main.py" script executes the whole workflow and saves the output in a logfi
 > python main.py
 
 # Highlights
-- EDA: framed the problem and leveraged some features by thinking out of the box.
-- Feature-engineered a new dataset more suitable to the task at hand and applied relevant models.
-- My pipeline involved one-hot encoding, normalization, multicollinearity assessment, logistic regression with grid search and XGBoost with early stopping.
-- Achieved 81.5% accuracy on the test set.
+- EDA: leveraged log-discretized pairplots with multiple KDE for regression analysis.
+- My pipeline involved stratified splitting, one-hot encoding, normalization, grid/randomized search, linear and polynomial regression with shrinkage, SVR, random forest and XGBoost with early stopping.
+- Significantly improved results by applying weighted oversampling strategy.
+- Achieved a weighted MSE of 0.91, which is statistically significantly better than the random baseline (2.25).
